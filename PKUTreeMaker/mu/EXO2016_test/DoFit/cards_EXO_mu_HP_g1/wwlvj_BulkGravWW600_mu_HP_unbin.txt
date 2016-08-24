@@ -1,0 +1,55 @@
+imax 1
+jmax 4
+kmax *
+--------------- 
+shapes BulkGravWW600_xww  CMS_xww_mu1JHP  wwlvj_BulkGravWW600_mu_HP_workspace.root workspace4limit_:$PROCESS_mu_HP
+shapes WJets_xww  CMS_xww_mu1JHP  wwlvj_BulkGravWW600_mu_HP_workspace.root workspace4limit_:$PROCESS_mu_HP
+shapes TTbar_xww  CMS_xww_mu1JHP  wwlvj_BulkGravWW600_mu_HP_workspace.root workspace4limit_:$PROCESS_mu_HP
+shapes STop_xww   CMS_xww_mu1JHP  wwlvj_BulkGravWW600_mu_HP_workspace.root workspace4limit_:$PROCESS_mu_HP
+shapes VV_xww     CMS_xww_mu1JHP  wwlvj_BulkGravWW600_mu_HP_workspace.root workspace4limit_:$PROCESS_mu_HP
+shapes data_obs   CMS_xww_mu1JHP  wwlvj_BulkGravWW600_mu_HP_workspace.root workspace4limit_:$PROCESS_xww_mu_HP
+--------------- 
+bin CMS_xww_mu1JHP 
+observation 1755.00 
+------------------------------
+bin CMS_xww_mu1JHP CMS_xww_mu1JHP CMS_xww_mu1JHP CMS_xww_mu1JHP CMS_xww_mu1JHP
+process BulkGravWW600_xww WJets_xww TTbar_xww STop_xww VV_xww 
+process -1 1 2 3 4
+rate 102.62209 781.656 734.043 0.000 102.911 
+-------------------------------- 
+lumi_8TeV lnN 1.050 - 1.050 1.050 1.050
+CMS_xww_XS_STop lnN - - - 1.300 -
+CMS_xww_XS_VV lnN - - - - 1.250
+CMS_xww_WJ_norm_mu_HP lnN - 1.058 - - -
+CMS_xww_Top_norm_mu_HP lnN - - 1.020 1.020 -
+CMS_eff_vtag_tau21_sf lnN 1.072/0.928 - - - 1.072/0.928
+#CMS_eff_vtag_model lnN 1.000 - - - 1.000
+CMS_xww_trigger_m lnN 1.010 - 1.010 1.010 1.010
+CMS_eff_m lnN 1.010 - 1.010 1.010 1.010
+CMS_scale_m lnN 1.020 - - - -
+CMS_res_m lnN 1.002 - - - -
+CMS_scale_j  lnN 1.010 - - - -
+CMS_res_j  lnN 1.015 - - - -
+CMS_xww_btag_eff lnN 1.019 - - - -
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HP_mlvj_eig0 param 0.0 1.4 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HP_mlvj_eig1 param 0.0 1.4 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HP_mlvj_eig2 param 0.0 1.4 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HP_mlvj_eig3 param 0.0 1.4 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HP_mlvj_eig4 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig0 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig1 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig2 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig3 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig4 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig5 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig6 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_HP_mlvj_eig7 param 0.0 1.4 
+Deco_TTbar_xww_signal_region_mu_HP_mlvj_eig0 param 0.0 2.0 
+Deco_TTbar_xww_signal_region_mu_HP_mlvj_eig1 param 0.0 2.0 
+Deco_TTbar_xww_signal_region_mu_HP_mlvj_eig2 param 0.0 2.0 
+Deco_TTbar_xww_signal_region_mu_HP_mlvj_eig3 param 0.0 2.0 
+CMS_sig_p1_scale_m param 0.0 1.0 
+CMS_sig_p2_scale_m param 0.0 1.0 
+CMS_sig_p1_jes param 0.0 1.0 
+CMS_sig_p2_jes param 0.0 1.0 
+CMS_sig_p2_jer param 0.0 1.0 

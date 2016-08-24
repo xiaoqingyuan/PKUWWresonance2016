@@ -1,0 +1,64 @@
+[?1034hLoading  QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;  27540000000.  ;  54153988
+
+QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+27540000000.0
+54153988
+1
+npp=54153988 nmm=0 totaleventnumber=5.4154e+07
+nID_mu0; npt_mu0; nmet_mu0; nptVlepJEC0; nptVhad0; nnum_bJet_mu0; n_deltaRlepjet0; n_delPhijetmet0; n_delPhijetlep0; ntau0; nmassVhad0; number_qq0
+Loading  QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;   1735000000.  ;  18507850
+
+QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+1735000000.0
+18507850
+1
+npp=18507850 nmm=0 totaleventnumber=1.85078e+07
+nID_mu7; npt_mu0; nmet_mu0; nptVlepJEC0; nptVhad0; nnum_bJet_mu0; n_deltaRlepjet0; n_delPhijetmet0; n_delPhijetlep0; ntau0; nmassVhad0; number_qq0
+Loading  QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;    366800000.  ;  16815276
+
+QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+366800000.0
+16815276
+1
+npp=16815276 nmm=0 totaleventnumber=1.68153e+07
+nID_mu714; npt_mu372; nmet_mu251; nptVlepJEC14; nptVhad9; nnum_bJet_mu9; n_deltaRlepjet9; n_delPhijetmet9; n_delPhijetlep9; ntau2; nmassVhad2; number_qq0
+Loading  QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;     29370000.  ;  19180848
+
+QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+29370000.0
+19180848
+1
+npp=19180848 nmm=0 totaleventnumber=1.91808e+07
+nID_mu3396; npt_mu2080; nmet_mu1531; nptVlepJEC431; nptVhad376; nnum_bJet_mu340; n_deltaRlepjet340; n_delPhijetmet337; n_delPhijetlep337; ntau23; nmassVhad22; number_qq0
+Loading  QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root   ;      6524000.  ;  15606433
+
+QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+6524000.0
+15606433
+1
+npp=15606433 nmm=0 totaleventnumber=1.56064e+07
+nID_mu3263; npt_mu2211; nmet_mu1752; nptVlepJEC862; nptVhad828; nnum_bJet_mu662; n_deltaRlepjet661; n_delPhijetmet650; n_delPhijetlep647; ntau61; nmassVhad56; number_qq0
+Loading  QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ;      1064000.  ;  4974888
+
+QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+1064000.0
+4974888
+1
+npp=4974888 nmm=0 totaleventnumber=4.97489e+06
+nID_mu1018; npt_mu735; nmet_mu613; nptVlepJEC408; nptVhad408; nnum_bJet_mu295; n_deltaRlepjet295; n_delPhijetmet280; n_delPhijetlep278; ntau47; nmassVhad32; number_qq0
+Loading  QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ;       121500.  ;  3841249
+
+QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+121500.0
+3841249
+1
+npp=3841249 nmm=0 totaleventnumber=3.84125e+06
+nID_mu743; npt_mu571; nmet_mu509; nptVlepJEC392; nptVhad392; nnum_bJet_mu290; n_deltaRlepjet289; n_delPhijetmet268; n_delPhijetlep267; ntau38; nmassVhad13; number_qq0
+Loading  QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root   ;        25420.  ;  1956567
+
+QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root
+25420.0
+1956567
+1
+npp=1956567 nmm=0 totaleventnumber=1.95657e+06
+nID_mu407; npt_mu322; nmet_mu289; nptVlepJEC225; nptVhad225; nnum_bJet_mu163; n_deltaRlepjet163; n_delPhijetmet141; n_delPhijetlep141; ntau22; nmassVhad4; number_qq0

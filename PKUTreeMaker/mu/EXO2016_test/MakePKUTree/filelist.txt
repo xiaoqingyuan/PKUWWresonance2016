@@ -1,0 +1,9 @@
+# root file_name                                               ; Theory_XS fb;  Event_Number
+QCD_HT100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;  27540000000.  ;  54153988
+QCD_HT200to300_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;   1735000000.  ;  18507850
+QCD_HT300to500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;    366800000.  ;  16815276
+QCD_HT500to700_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root    ;     29370000.  ;  19180848
+QCD_HT700to1000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root   ;      6524000.  ;  15606433
+QCD_HT1000to1500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ;      1064000.  ;  4974888
+QCD_HT1500to2000_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ;       121500.  ;  3841249
+QCD_HT2000toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root   ;        25420.  ;  1956567
